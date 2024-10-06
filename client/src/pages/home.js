@@ -34,7 +34,6 @@ function Home() {
 
     const settings = {
       Infinity: true,
-      // lazyLoad: true,
       speed: 300,
       slidesToShow: 5,
       centerMode: true,
