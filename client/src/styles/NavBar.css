@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: #fff;
+    align-items: center;
+    position: static;
+  }
+  
+  .nav-links a {
+    font-family: 'Serif', serif;
+    font-size: 22px;
+    margin: 0 19px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: 'Oleo Script', sans-serif;
+  }
+  
+  .logo {
+    font-family: 'Serif', serif;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 13px;
+    font-family: 'Oleo Script', sans-serif;
+  }
+  
+  .nav-links a:hover{
+    color: #3C3C3C;
+    text-shadow: 2px 2px 5px #333232;
+  }
